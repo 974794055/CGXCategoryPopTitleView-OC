@@ -1,0 +1,1 @@
+../../../../../CGXCategoryPopTitleView/CGXCategoryPopTitleCellModel.h

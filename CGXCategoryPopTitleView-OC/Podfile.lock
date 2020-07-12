@@ -1,0 +1,16 @@
+PODS:
+  - CGXCategoryPopTitleView-OC (0.0.2)
+
+DEPENDENCIES:
+  - CGXCategoryPopTitleView-OC (from `../`)
+
+EXTERNAL SOURCES:
+  CGXCategoryPopTitleView-OC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGXCategoryPopTitleView-OC: 2e3aaacbbefc3d6294163462dcdfdff4f58877d5
+
+PODFILE CHECKSUM: 97251a02934d002a8e1d9a777ea4248047ef560e
+
+COCOAPODS: 1.9.3

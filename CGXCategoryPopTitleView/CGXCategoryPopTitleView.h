@@ -18,7 +18,6 @@ typedef void(^CGXCategoryPopTitleViewShowCellBlock)(CGXCategoryPopTitleCell *cel
 +(CGXCategoryPopTitleView *)sharedSingleton;
 
 @property (nonatomic , assign) CGFloat topSpace;//顶部透明距离 默认导航条高度
-
 @property (nonatomic , assign) BOOL isAdaptive;//自适应高度
 @property (nonatomic , assign) NSInteger minimumLineSpacing;//默认是10
 @property (nonatomic , assign) NSInteger minimumInteritemSpacing;//默认是10

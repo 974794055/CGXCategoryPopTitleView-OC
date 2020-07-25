@@ -14,9 +14,9 @@
 		04CAAE0C22CB5A1700512667 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04CAAE0A22CB5A1700512667 /* LaunchScreen.storyboard */; };
 		04CAAE0F22CB5A1700512667 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04CAAE0E22CB5A1700512667 /* main.m */; };
 		6E7BBE55C751DA2A3C1963B1 /* libPods-CGXCategoryPopTitleView-OC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D7EB9E1250403C6EDE15D4CE /* libPods-CGXCategoryPopTitleView-OC.a */; };
-		9E4ADFB124BB50330034ED20 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 9E4ADFAE24BB50330034ED20 /* LICENSE */; };
-		9E4ADFB224BB50330034ED20 /* CGXCategoryPopTitleView-OC.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9E4ADFAF24BB50330034ED20 /* CGXCategoryPopTitleView-OC.podspec */; };
-		9E4ADFB324BB50330034ED20 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9E4ADFB024BB50330034ED20 /* README.md */; };
+		9E6F696924CC2BB000EAE61B /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 9E6F696624CC2BB000EAE61B /* LICENSE */; };
+		9E6F696A24CC2BB000EAE61B /* CGXCategoryPopTitleView-OC.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 9E6F696724CC2BB000EAE61B /* CGXCategoryPopTitleView-OC.podspec */; };
+		9E6F696B24CC2BB000EAE61B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9E6F696824CC2BB000EAE61B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,9 +32,9 @@
 		04CAAE0E22CB5A1700512667 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8621DC8454CF0C27749FC7F7 /* Pods-CGXCategoryPopTitleView-OC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CGXCategoryPopTitleView-OC.debug.xcconfig"; path = "Target Support Files/Pods-CGXCategoryPopTitleView-OC/Pods-CGXCategoryPopTitleView-OC.debug.xcconfig"; sourceTree = "<group>"; };
 		89393F7FFC28774B28CB4428 /* Pods-CGXCategoryPopTitleView-OC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CGXCategoryPopTitleView-OC.release.xcconfig"; path = "Target Support Files/Pods-CGXCategoryPopTitleView-OC/Pods-CGXCategoryPopTitleView-OC.release.xcconfig"; sourceTree = "<group>"; };
-		9E4ADFAE24BB50330034ED20 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
-		9E4ADFAF24BB50330034ED20 /* CGXCategoryPopTitleView-OC.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "CGXCategoryPopTitleView-OC.podspec"; path = "../../../CGXCategoryPopTitleView-OC.podspec"; sourceTree = "<group>"; };
-		9E4ADFB024BB50330034ED20 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
+		9E6F696624CC2BB000EAE61B /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
+		9E6F696724CC2BB000EAE61B /* CGXCategoryPopTitleView-OC.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "CGXCategoryPopTitleView-OC.podspec"; path = "../../../CGXCategoryPopTitleView-OC.podspec"; sourceTree = "<group>"; };
+		9E6F696824CC2BB000EAE61B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../../README.md; sourceTree = "<group>"; };
 		D7EB9E1250403C6EDE15D4CE /* libPods-CGXCategoryPopTitleView-OC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CGXCategoryPopTitleView-OC.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -71,7 +71,7 @@
 		04CAADFE22CB5A1600512667 /* CGXCategoryPopTitleView-OC */ = {
 			isa = PBXGroup;
 			children = (
-				9E4ADFAD24BB50260034ED20 /* New Group */,
+				9E6F696524CC2BA600EAE61B /* New Group */,
 				04CAADFF22CB5A1600512667 /* AppDelegate.h */,
 				04CAAE0022CB5A1600512667 /* AppDelegate.m */,
 				04CAAE0222CB5A1600512667 /* ViewController.h */,
@@ -94,12 +94,12 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		9E4ADFAD24BB50260034ED20 /* New Group */ = {
+		9E6F696524CC2BA600EAE61B /* New Group */ = {
 			isa = PBXGroup;
 			children = (
-				9E4ADFAF24BB50330034ED20 /* CGXCategoryPopTitleView-OC.podspec */,
-				9E4ADFAE24BB50330034ED20 /* LICENSE */,
-				9E4ADFB024BB50330034ED20 /* README.md */,
+				9E6F696724CC2BB000EAE61B /* CGXCategoryPopTitleView-OC.podspec */,
+				9E6F696624CC2BB000EAE61B /* LICENSE */,
+				9E6F696824CC2BB000EAE61B /* README.md */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -170,12 +170,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E4ADFB324BB50330034ED20 /* README.md in Resources */,
+				9E6F696B24CC2BB000EAE61B /* README.md in Resources */,
 				04CAAE0C22CB5A1700512667 /* LaunchScreen.storyboard in Resources */,
 				04CAAE0922CB5A1700512667 /* Assets.xcassets in Resources */,
-				9E4ADFB124BB50330034ED20 /* LICENSE in Resources */,
+				9E6F696924CC2BB000EAE61B /* LICENSE in Resources */,
 				04CAAE0722CB5A1600512667 /* Main.storyboard in Resources */,
-				9E4ADFB224BB50330034ED20 /* CGXCategoryPopTitleView-OC.podspec in Resources */,
+				9E6F696A24CC2BB000EAE61B /* CGXCategoryPopTitleView-OC.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
